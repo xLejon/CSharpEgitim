@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Variables", "CSharpEgiti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_MakingDecision", "CSharpEgitim_3\03_MakingDecision.csproj", "{E085E6A0-7B4A-46FA-9D0B-2F327E4F2109}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Loops", "04_Loops\04_Loops.csproj", "{DA165E02-148C-43CC-A812-D951C297B7A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_LoopsWithStars", "05_LoopsWithStars\05_LoopsWithStars.csproj", "{971089A9-A255-4BE1-862A-CFBF871F6636}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{E085E6A0-7B4A-46FA-9D0B-2F327E4F2109}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E085E6A0-7B4A-46FA-9D0B-2F327E4F2109}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E085E6A0-7B4A-46FA-9D0B-2F327E4F2109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA165E02-148C-43CC-A812-D951C297B7A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA165E02-148C-43CC-A812-D951C297B7A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA165E02-148C-43CC-A812-D951C297B7A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA165E02-148C-43CC-A812-D951C297B7A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{971089A9-A255-4BE1-862A-CFBF871F6636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{971089A9-A255-4BE1-862A-CFBF871F6636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{971089A9-A255-4BE1-862A-CFBF871F6636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{971089A9-A255-4BE1-862A-CFBF871F6636}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

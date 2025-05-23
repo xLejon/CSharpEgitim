@@ -327,16 +327,16 @@ namespace CSharpEgitim_3
             //        result = number1 * number2;
             //        Console.WriteLine("Çarpımı: " + result);
             //        break;
-                
+
             //    case '/':
             //        result = number1 / number2;
             //        Console.WriteLine("Bölümü: " + result);
             //        break;
-            }
+            //}
 
 
             #endregion
-            
+
             Console.Read();
 
         }

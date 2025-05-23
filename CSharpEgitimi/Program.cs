@@ -116,7 +116,7 @@ namespace CSharpEgitimi
             //totalFriesPrice = friesCount * friesPrice;
             //totalPizzaPrice = pizzaCount * pizzaPrice;
             //totalLemonadePrice = lemonadeCount * lemonadePrice;
-           
+
 
             //Console.WriteLine("---------------------------------");
             //Console.WriteLine("Hamburger Tutarı: " + totalHamburgerPrice + " TL");
@@ -125,7 +125,7 @@ namespace CSharpEgitimi
             //Console.WriteLine("Kızartma Tutarı: " + totalFriesPrice + " TL");
             //Console.WriteLine("Su Tutarı: " + totalWaterPrice + " TL");
             //Console.WriteLine("Limonata Tutarı: " + totalLemonadePrice + " TL");
-            
+
             //Console.WriteLine();
 
             //int totalPrice = totalCokePrice + totalWaterPrice + totalFriesPrice + totalPizzaPrice + 
@@ -133,15 +133,11 @@ namespace CSharpEgitimi
 
             //Console.WriteLine("---------------------------------");
             //Console.WriteLine("Toplam Ödenecek Tutar: " + totalPrice + " TL");
-            
-           
-            
-            
+
+
+
+
             #endregion
-
-
-
-
 
 
             Console.Read();

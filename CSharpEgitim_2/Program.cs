@@ -125,7 +125,7 @@ namespace CSharpEgitim_2
             //Console.WriteLine("Yolcu Kimlik Numarası: " + passengerIdentityNumber);
             //Console.WriteLine("Yolcu Ad Soyad: " + passengerName + " " + passengerSurname);
             //Console.WriteLine("Yolcu Yaşı: " + passengerAge);
-            //Console.WriteLine("İlçe / İl " + passengerDistrict + " / " + passengerCity);
+            //Console.WriteLine("İlçe / İl: " + passengerDistrict + " / " + passengerCity);
 
 
 
@@ -223,6 +223,8 @@ namespace CSharpEgitim_2
 
 
             #endregion
+            
+            
             Console.Read();
         }
     }
