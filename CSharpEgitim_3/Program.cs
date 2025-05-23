@@ -137,7 +137,7 @@ namespace CSharpEgitim_3
             //Console.WriteLine(result);
 
             //Console.Write("Lütfen 1. sayıyı giriniz: ");
-            //    int number1 = int.Parse(Console.ReadLine());
+            //int number1 = int.Parse(Console.ReadLine());
 
             //Console.Write("Lütfen 2. sayıyı giriniz: ");
             //int number2 = int.Parse(Console.ReadLine());
@@ -271,18 +271,6 @@ namespace CSharpEgitim_3
             //}
 
 
-
-
-
-
-
-
-
-
-
-
-
-
             #endregion
 
             #region Switch Case
@@ -344,19 +332,10 @@ namespace CSharpEgitim_3
             //        result = number1 / number2;
             //        Console.WriteLine("Bölümü: " + result);
             //        break;
-            //}
+            }
 
 
             #endregion
-            
-            
-            
-            
-            
-            
-            
-            
-            
             
             Console.Read();
 

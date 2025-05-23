@@ -90,16 +90,6 @@ namespace CSharpEgitim_2
             //Console.WriteLine(symbol);
 
 
-
-
-
-
-
-
-
-
-
-
             #endregion
 
 
