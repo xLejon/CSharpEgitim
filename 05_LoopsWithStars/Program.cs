@@ -89,7 +89,6 @@ namespace _05_LoopsWithStars
 
             #endregion
 
-
             #region Baklava Şekli Oluşturma
 
             // Üst Kısım
@@ -161,18 +160,9 @@ namespace _05_LoopsWithStars
             //        Console.Write("*");
             //    }
             //    Console.WriteLine();
-            }
+            //}
 
             #endregion
-
-
-
-
-
-
-
-
-
 
             Console.Read();
         }
